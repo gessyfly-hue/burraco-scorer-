@@ -1,0 +1,9 @@
+{
+  "name": "Burraco - Segnapunti",
+  "short_name": "Burraco",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B3B2E",
+  "theme_color": "#0B3B2E",
+  "orientation": "portrait"
+}
